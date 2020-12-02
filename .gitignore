@@ -1,0 +1,15 @@
+# Build
+coverage/
+node_modules/
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IntelliJ
+*.iml
+.idea/*
+
+# Visual Studio Code
+.vscode/*
