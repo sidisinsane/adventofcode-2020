@@ -1,7 +1,7 @@
 {
   "name": "adventofcode-2020",
   "version": "1.0.0",
-  "description": "Trying to solve some Advent of the Code 2020 puzzles with JavaScript only.",
+  "description": "Trying to solve some Advent of Code 2020 puzzles with JavaScript only.",
   "engines": {
     "node": "^14.5.0",
     "npm": "^6.14.9"
